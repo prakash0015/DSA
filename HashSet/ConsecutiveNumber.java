@@ -1,3 +1,4 @@
+package DSA.HashSet;
 import java.util.HashSet;
 
 public class ConsecutiveNumber {

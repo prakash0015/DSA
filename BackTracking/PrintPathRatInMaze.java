@@ -1,3 +1,5 @@
+
+package DSA.BackTracking;
 public class PrintPathRatInMaze {
     
     public static void main(String[] args) {

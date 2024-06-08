@@ -1,3 +1,4 @@
+package DSA.BackTracking;
 public class RatInMaze {
     public static void main(String[] args) {
         int rows = 3;
