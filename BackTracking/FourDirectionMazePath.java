@@ -1,4 +1,3 @@
-package DSA.BackTracking;
 public class FourDirectionMazePath {
     public static void main(String[] args) {
         int rows = 3;
